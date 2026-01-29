@@ -9,7 +9,7 @@ dagTotaal = 0
 aantalBonnen = 0
 dagTotaalTerug = 0
 
-while(not keuze == "9" ):
+while(not keuze == "9" ):  
     os.system('cls')
     print ("======== HOOFDMENU =========")
     print ("1. Nieuwe bon")
@@ -80,7 +80,7 @@ while(not keuze == "9" ):
         print ("In kassa begin:   " + str(bedragInKassaBegin))
         print ("Verkocht:         " + str(dagTotaal))
         print ("Retour:           " + str(dagTotaalTerug))
-        print ("In kassa:         " + str( bedragInKassaBegin + dagTotaal - dagTotaalTerug ))
+        print ("In kassa:         " + str( bedragInKassaBegin + dagTotaal - dagTotaalTerug  )
         input("Druk op <ENTER> om door te gaan.")
 inKassa = float(input("Hoeveel zit er nu in de kassa?")) 
 while(not inKassa == (bedragInKassaBegin + dagTotaal - dagTotaalTerug )):

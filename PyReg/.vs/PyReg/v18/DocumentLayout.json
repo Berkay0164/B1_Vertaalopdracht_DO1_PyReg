@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\berka\\Documents\\GitHub\\B1_Vertaalopdracht_DO1_PyReg\\PyReg\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D56A0307-264E-4B9B-8A14-BB2163ED8AF1}|PyReg.pyproj|C:\\Users\\berka\\Documents\\GitHub\\B1_Vertaalopdracht_DO1_PyReg\\PyReg\\PyReg.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D56A0307-264E-4B9B-8A14-BB2163ED8AF1}|PyReg.pyproj|solutionrelative:PyReg.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PyReg.py",
+              "DocumentMoniker": "C:\\Users\\berka\\Documents\\GitHub\\B1_Vertaalopdracht_DO1_PyReg\\PyReg\\PyReg.py",
+              "RelativeDocumentMoniker": "PyReg.py",
+              "ToolTip": "C:\\Users\\berka\\Documents\\GitHub\\B1_Vertaalopdracht_DO1_PyReg\\PyReg\\PyReg.py",
+              "RelativeToolTip": "PyReg.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-28T12:32:28.664Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
